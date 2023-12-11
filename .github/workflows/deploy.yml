@@ -32,7 +32,7 @@ jobs:
         bundle install
         npm install -g mermaid.cli
         export JEKYLL_ENV=production
-        bundle exec jekyll build --trace
+        bundle exec jekyll build --trace  --incremental
     - name: Deploy 🚀
       if: github.event_name != 'pull_request'
       uses: JamesIves/github-pages-deploy-action@v4
