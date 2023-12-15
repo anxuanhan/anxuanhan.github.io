@@ -18,7 +18,7 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi!  I'm `Anxuan Han`. I'm going to study Quantative Genetics and machine learning models in Animal Omics Sciences lab in Department of Animal Sciences at the [University of Florida](https://www.ufl.edu/).
+Hi!  I'm `Anxuan Han`. I'm going to study Quantative Genetics and machine learning models in [Animal Omics Sciences lab](https://uf-aiaos.github.io/) in Department of Animal Sciences at the [University of Florida](https://www.ufl.edu/).
 
 
 
