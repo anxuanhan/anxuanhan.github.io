@@ -20,9 +20,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hi!  I'm `Anxuan Han`. I'm going to study Quantative Genetics and machine learning models in [Animal Omics Sciences lab](https://uf-aiaos.github.io/) in Department of Animal Sciences at the [University of Florida](https://www.ufl.edu/).
 
-**Educational Background**
-Bachelor of Veterinary Medicine at Huazhong Agricultural University 2016-2021
-Master of Biology at Wuhan University 2021-2024
+**Educational Background**  
+Bachelor of Veterinary Medicine at Huazhong Agricultural University(2016-2021)  
+Master of Biology at Wuhan University(2021-2024)  
 
 
 
